@@ -1,2 +1,2 @@
-# OpenCV With Engr.Muhammad Javed with 
+# OpenCV With Engr.Muhammad Javed
 
