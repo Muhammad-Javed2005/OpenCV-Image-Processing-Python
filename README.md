@@ -261,7 +261,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# 🎯 Learning Outcome
+#  Learning Outcome
 
 After completing this repository you will understand:
 
