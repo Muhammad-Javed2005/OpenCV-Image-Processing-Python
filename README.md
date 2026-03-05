@@ -68,7 +68,7 @@ Each phase builds upon the previous one, making this repository a
 
 ------------------------------------------------------------------------
 
-# 🧠 Learning Roadmap
+#  Learning Roadmap
 
 This repository follows a **progressive learning path**.
 
