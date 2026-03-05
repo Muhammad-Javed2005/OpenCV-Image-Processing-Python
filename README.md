@@ -239,7 +239,7 @@ Extract text and information from images:
 
 ------------------------------------------------------------------------
 
-# 🚀 How to Run
+#  How to Run
 
 ### 1️⃣ Clone the Repository
 
