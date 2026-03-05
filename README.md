@@ -284,7 +284,7 @@ After completing this repository you will understand:
 
 ------------------------------------------------------------------------
 
-# 🤝 Contribution
+# Contribution
 
 Contributions are welcome!
 
