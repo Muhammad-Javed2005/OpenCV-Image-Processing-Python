@@ -275,7 +275,7 @@ After completing this repository you will understand:
 
 ------------------------------------------------------------------------
 
-# 📚 Who Is This Repository For?
+# Who Is This Repository For?
 
 -   Beginners learning **Computer Vision**
 -   Students studying **Machine Learning**
