@@ -30,7 +30,7 @@ Each phase builds upon the previous one, making this repository a
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
+#  Project Structure
 
     OpenCV-Computer-Vision/
     │
