@@ -7,7 +7,7 @@
 Type](https://img.shields.io/badge/Type-Learning%20Repository-purple)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 📌 Overview
+##  Overview
 
 This repository is a **complete hands-on learning journey for OpenCV and
 Computer Vision**.\
