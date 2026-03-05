@@ -296,7 +296,7 @@ If you want to improve this repository:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
+# Author
 
 **Muhammad Javed**
 
